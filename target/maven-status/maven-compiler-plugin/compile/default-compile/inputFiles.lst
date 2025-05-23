@@ -1,0 +1,17 @@
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\AsociacionWebController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\ClubController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\ClubWebController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\CompeticionWebController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\EntrenadorWebController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\controller\JugadorWebController.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\FutbolClubApplication.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\model\Asociacion.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\model\Club.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\model\Competicion.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\model\Entrenador.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\model\Jugador.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\repository\AsociacionRepository.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\repository\ClubRepository.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\repository\CompeticionRepository.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\repository\EntrenadorRepository.java
+C:\springGerardo\futbol-club\src\main\java\com\clubfutbol\repository\JugadorRepository.java
